@@ -39,14 +39,18 @@ I'm S Tejas, a driven Blockchain and Full-Stack Developer passionate about creat
 
 📊 My stats ⭐  
 ---
-![S Tejas' GitHub Stats](https://github-readme-stats.vercel.app/api?username=STEJAS&show_icons=true&theme=tokyonight)          
+![S Tejas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pycodiee&show_icons=true&theme=tokyonight)          
 
-![S Tejas' GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=stejas&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)  
+![S Tejas's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pycodiee&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)  
 
 🏆 GitHub Trophies  
 ---
 ![trophy](https://github-profile-trophy.vercel.app/?username=stejas&theme=tokyonight&column=7)
 
+
+## 📈 Contribution Graph
+
+[![S Tejas's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pycodiee&theme=react-dark)](https://github.com/ashutosh00710/GitHub-readme-activity-graph)
 
 
 
