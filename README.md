@@ -34,7 +34,7 @@ I'm S Tejas, a driven Blockchain and Full-Stack Developer passionate about creat
 
 
 ## 🏢 For Collaboration
-- 📄 [My Resume/CV]()
+- 📄 [My Resume/CV](https://drive.google.com/file/d/1K2HlmxALpWBh0U1wJWSBD588Ali4z3mO/view?usp=sharing)
 - 📧 techbusy.in@gmail.com
 
 📊 My stats ⭐  
