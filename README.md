@@ -35,7 +35,7 @@ I'm S Tejas, a driven Blockchain and Full-Stack Developer passionate about creat
 
 ## 🏢 For Collaboration
 - 📄 [My Resume/CV](https://drive.google.com/file/d/1K2HlmxALpWBh0U1wJWSBD588Ali4z3mO/view?usp=sharing)
-- 📧 techbusy.in@gmail.com
+- 📧 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ts441865@gmail.com)
 
 📊 My stats ⭐  
 ---
